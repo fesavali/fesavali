@@ -14,7 +14,7 @@
 ![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=fesavali&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesavali&layout=compact)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fesavali&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fesavali&theme=neon-palenight&hide_border=true)Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true)
 
 
 
