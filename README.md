@@ -6,7 +6,7 @@
 <h2 align="center">Hi there 👋, I'm Felix Savali!</h2>
 
 
-<a href="https://felixnzioki99.wixsite.com/portfolio" target="blank">Portfolio: <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/EnFeloh2" target="blank">Twitter: <img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="Medium" height="30" width="40" /></a>
+<a href="https://felixnzioki99.wixsite.com/portfolio" target="blank">Portfolio: <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/EnFeloh2" target="blank">Twitter: <img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="Medium" height="30" width="40" /></a> <a href="https://www.instagram.com/felo_hs/" target="blank">Instagram: <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Medium" height="30" width="40" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=fesavali&column=9&theme=gruvbox&no-frame=true"/>
