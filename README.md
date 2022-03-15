@@ -11,7 +11,7 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=fesavali&column=9&theme=gruvbox&no-frame=true"/>
 
-![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=fesavali&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesavali&layout=compact)
+![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=fesavali&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesavali&layout=compact)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fesavali&theme=neon-palenight&hide_border=true)
