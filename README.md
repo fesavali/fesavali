@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+android+mobile+app+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/fesavali/fesavali/master/assets/mkdir.png" />
+  <img width="100" src="https://avatars.githubusercontent.com/u/26581372?v=4" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Felix Savali!</h2>
 
@@ -35,6 +35,8 @@
 <code><img height="40" src="https://img.icons8.com/cute-clipart/2x/android.png"></code>
 <code><img height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/2x/google-firebase-console.png"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/sqlite_logo_icon_170706.png"></code>
+
 
 
 ![](https://komarev.com/ghpvc/?username=fesavali)
