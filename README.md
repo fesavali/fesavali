@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+android+mobile+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Certified+Web-App+n+Mobile+Apps+Engineer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="100" src="https://avatars.githubusercontent.com/u/26581372?v=4" />
