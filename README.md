@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Senior+n+Backend+n+Engineer+Payments,+n+AI+n+Systems.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Senior+Backend+Engineer+Payments+n+AI+Systems.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="100" src="https://avatars.githubusercontent.com/u/26581372?v=4" />
